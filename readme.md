@@ -1,6 +1,5 @@
-#Hello this is akshat srivastava
+#index.py 
 
-
-#Django ad
+# python manage.py runserver
 
 
